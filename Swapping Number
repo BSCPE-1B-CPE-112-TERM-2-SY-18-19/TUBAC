@@ -10,7 +10,7 @@ class cristine{
 };
 
 int main() {
-	cristine call; //gitawag nako ang class nga fliona gamit ang 'call'
+	cristine call; //gitawag nako ang class nga cristine gamit ang 'call'
 	call.twovarswapping(); //gitawag ang functions
 	call.threevarswapping();
 	return 0;
